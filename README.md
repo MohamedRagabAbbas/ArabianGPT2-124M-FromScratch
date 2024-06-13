@@ -1,3 +1,6 @@
+<div align="left" >
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamedragababbas&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedragababbas" /> </p>
+</div>
 
 # GPT-2 (124M) from Scratch and Training on Arabic Dataset
 
