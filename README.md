@@ -1,7 +1,3 @@
-<div align="left" >
-  <p align="left"> <img src="https://komarev.com/ghpvc/?username=arabiangpt&label=repo%20views&color=0e75b6&style=flat" alt="mohamedragababbas" /> </p>
-</div>
-
 # GPT-2 (124M) from Scratch and Training on Arabic Dataset
 
 This repository contains a Jupyter Notebook for building and training a GPT-2 (124M) model from scratch using only torch and training it on an Arabic dataset. This project follows the tutorial by Andrej Karpathy, adapting the steps to work with the Arabic language.
